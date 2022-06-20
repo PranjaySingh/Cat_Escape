@@ -5,7 +5,7 @@ Unity ver. 2020.3.30f1
 To Play visit the link - https://pranjaysingh.github.io/Cat_Escape/
 (Playing on Mobile Devices not recommended)
 
-Playing Instructions - Click and drag to move the cat.
+Playing Instructions - Click and drag to move the cat. Game gets over after 20 sec.
 
 Build Hosted on Github Pages via "main" Branch.
 
