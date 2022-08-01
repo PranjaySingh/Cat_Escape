@@ -2,6 +2,8 @@
 
 Unity ver. 2020.3.30f1
 
+A quick level clone of the fun Game by Sunday - Cat Escape.
+
 To Play visit the link - https://pranjaysingh.github.io/Cat_Escape/
 (Playing on Mobile Devices not recommended)
 
